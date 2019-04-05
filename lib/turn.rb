@@ -33,6 +33,3 @@ def turn(board)
     end
   end
 end
-
-
-
